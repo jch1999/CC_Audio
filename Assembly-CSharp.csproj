@@ -46,6 +46,7 @@
      <Compile Include="Assets\CreativeCore_Audio\ClosedCaptionSystem\Scripts\System\CCCanvas.cs" />
      <Compile Include="Assets\CreativeCore_Audio\StarterAssets\ThirdPersonController\Scripts\ThirdPersonController.cs" />
      <Compile Include="Assets\CreativeCore_Audio\ClosedCaptionSystem\Scripts\System\CCDatabase.cs" />
+     <None Include="Assets\CreativeCore_Audio\resource source.txt" />
      <None Include="Assets\CreativeCore_Audio\StarterAssets\license.txt" />
     <Reference Include="UnityEngine">
         <HintPath>E:\ProgramFiles\Unity\Editor\2020.3.33f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
