@@ -2,3 +2,9 @@
 from https://freesound.org/people/MicheleFalleri/sounds/578459/
 406225__anthousai__water-ice-sliding-foot-around-in-a-pile-of-ice-cubes.wav
 from https://freesound.org/people/Anthousai/sounds/406225/
+340026__iesp__water-from-a-water-fountain.wav
+from https://freesound.org/people/IESP/sounds/340026/
+17970__reinsamba__water-frogs.wav
+from https://freesound.org/people/reinsamba/sounds/17970/
+244942__spoonbender__wind-through-trees-3b
+from https://freesound.org/people/spoonbender/sounds/244942/

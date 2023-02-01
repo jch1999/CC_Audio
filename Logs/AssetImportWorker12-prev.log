@@ -1,0 +1,265 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.33f1 (915a7af8b0d5) revision 9525882'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Professional' Language: 'ko' Physical Memory: 16317 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+E:\ProgramFiles\Unity\Editor\2020.3.33f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker12
+-projectPath
+E:/UnityProject/CC_Audio
+-logFile
+Logs/AssetImportWorker12.log
+-srvPort
+58809
+Successfully changed project path to: E:/UnityProject/CC_Audio
+E:/UnityProject/CC_Audio
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 62.12 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.33f1 (915a7af8b0d5)
+[Subsystems] Discovering subsystems at path E:/ProgramFiles/Unity/Editor/2020.3.33f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/UnityProject/CC_Audio/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 SUPER (ID=0x1f06)
+    Vendor:   
+    VRAM:     8031 MB
+    Driver:   31.0.15.1694
+Initialize mono
+Mono path[0] = 'E:/ProgramFiles/Unity/Editor/2020.3.33f1/Editor/Data/Managed'
+Mono path[1] = 'E:/ProgramFiles/Unity/Editor/2020.3.33f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/ProgramFiles/Unity/Editor/2020.3.33f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56568
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/ProgramFiles/Unity/Editor/2020.3.33f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: E:/ProgramFiles/Unity/Editor/2020.3.33f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000960 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 67.24 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.567 seconds
+Domain Reload Profiling:
+	ReloadAssembly (567ms)
+		BeginReloadAssembly (54ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (453ms)
+			LoadAssemblies (53ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (145ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (188ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (67ms)
+				BeforeProcessingInitializeOnLoad (13ms)
+				ProcessInitializeOnLoadAttributes (75ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002185 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\UnityProject\CC_Audio\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 64.48 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.505 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2506ms)
+		BeginReloadAssembly (133ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (2325ms)
+			LoadAssemblies (91ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (451ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (74ms)
+			SetupLoadedEditorAssemblies (1609ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (65ms)
+				BeforeProcessingInitializeOnLoad (88ms)
+				ProcessInitializeOnLoadAttributes (988ms)
+				ProcessInitializeOnLoadMethodAttributes (463ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.84 seconds
+Refreshing native plugins compatible for Editor in 1.05 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3873 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 163.4 MB.
+System memory in use after: 163.7 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 4307.
+Total: 3.639100 ms (FindLiveObjects: 0.235600 ms CreateObjectMapping: 0.184700 ms MarkObjects: 3.110500 ms  DeleteObjects: 0.107500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/CreativeCore_Audio/StarterAssets/ThirdPersonController/Character/TutorialAnimations/Locomotion--Run_N.anim.fbx
+  artifactKey: Guid(64688b370160e7149ba6e3fdd0763f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Audio/StarterAssets/ThirdPersonController/Character/TutorialAnimations/Locomotion--Run_N.anim.fbx using Guid(64688b370160e7149ba6e3fdd0763f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2766dc8ff8ae5e411b4e812a172a76c') in 0.207760 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.744080 seconds.
+  path: Assets/CreativeCore_Audio/StarterAssets/ThirdPersonController/Character/TutorialAnimations/Locomotion--Run_N.anim.fbx
+  artifactKey: Guid(64688b370160e7149ba6e3fdd0763f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Audio/StarterAssets/ThirdPersonController/Character/TutorialAnimations/Locomotion--Run_N.anim.fbx using Guid(64688b370160e7149ba6e3fdd0763f5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '249c6324906c8d1d583894899c76fdc2') in 0.009229 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.094233 seconds.
+  path: Assets/CreativeCore_Audio/StarterAssets/ThirdPersonController/Character/TutorialAnimations/Jump--InAir.anim.fbx
+  artifactKey: Guid(6ad72b1a34ec09b4ba4417c82c77874c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Audio/StarterAssets/ThirdPersonController/Character/TutorialAnimations/Jump--InAir.anim.fbx using Guid(6ad72b1a34ec09b4ba4417c82c77874c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f993bfbecff3d3027c19eb19e601e4f0') in 0.012335 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.782873 seconds.
+  path: Assets/CreativeCore_Audio/StarterAssets/ThirdPersonController/Character/TutorialAnimations/Jump--Jump.anim.fbx
+  artifactKey: Guid(9f549d84fe7135940a93565fcdfc4d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Audio/StarterAssets/ThirdPersonController/Character/TutorialAnimations/Jump--Jump.anim.fbx using Guid(9f549d84fe7135940a93565fcdfc4d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cad03358bb0153331b9fd394130b155') in 0.112719 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 166.363228 seconds.
+  path: Assets/CreativeCore_Audio/StarterAssets/ThirdPersonController/Character/TutorialAnimations/Locomotion--Walk_N_Land.anim.fbx
+  artifactKey: Guid(0ad9b0feeb69adc48bdc0a85bc92134a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Audio/StarterAssets/ThirdPersonController/Character/TutorialAnimations/Locomotion--Walk_N_Land.anim.fbx using Guid(0ad9b0feeb69adc48bdc0a85bc92134a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e9a38442cc59add3d4132618978ecba') in 0.013206 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.181328 seconds.
+  path: Assets/CreativeCore_Audio/StarterAssets/ThirdPersonController/Character/TutorialAnimations/Locomotion--Walk_N_Land.anim.fbx
+  artifactKey: Guid(0ad9b0feeb69adc48bdc0a85bc92134a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Audio/StarterAssets/ThirdPersonController/Character/TutorialAnimations/Locomotion--Walk_N_Land.anim.fbx using Guid(0ad9b0feeb69adc48bdc0a85bc92134a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c2139d48d898d1d109bbd9ec9effe13') in 0.044318 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.524476 seconds.
+  path: Assets/CreativeCore_Audio/StarterAssets/ThirdPersonController/Character/TutorialAnimations/Stand--Idle.anim.fbx
+  artifactKey: Guid(8deed40c648fbb340b3f776f3ee6271c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Audio/StarterAssets/ThirdPersonController/Character/TutorialAnimations/Stand--Idle.anim.fbx using Guid(8deed40c648fbb340b3f776f3ee6271c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3cfc6222597f932bcc038bce84c94c') in 0.085127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.018721 seconds.
+  path: Assets/CreativeCore_Audio/StarterAssets/ThirdPersonController/Character/TutorialAnimations/Locomotion--Run_N_Land.anim.fbx
+  artifactKey: Guid(9444c1224dbabc74badcb0771f963c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Audio/StarterAssets/ThirdPersonController/Character/TutorialAnimations/Locomotion--Run_N_Land.anim.fbx using Guid(9444c1224dbabc74badcb0771f963c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7b51c7632a787a1cde9c2a0a65e91ed') in 0.013134 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 58.441759 seconds.
+  path: Assets/CreativeCore_Audio/StarterAssets/ThirdPersonController/Character/TutorialAnimations/Locomotion--Run_N_Land.anim.fbx
+  artifactKey: Guid(9444c1224dbabc74badcb0771f963c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Audio/StarterAssets/ThirdPersonController/Character/TutorialAnimations/Locomotion--Run_N_Land.anim.fbx using Guid(9444c1224dbabc74badcb0771f963c66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54b240ec023d0d334194a1d96fb3c99d') in 0.012659 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.310204 seconds.
+  path: Assets/CreativeCore_Audio/StarterAssets/ThirdPersonController/Character/TutorialAnimations/Locomotion--Walk_N.anim.fbx
+  artifactKey: Guid(0b5a15d029b45fa4984e490e39e5bc93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Audio/StarterAssets/ThirdPersonController/Character/TutorialAnimations/Locomotion--Walk_N.anim.fbx using Guid(0b5a15d029b45fa4984e490e39e5bc93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdae2e0ccd5fe9564434c8bfc21cc519') in 0.013434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 134.745809 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '752df26d843ce6fa39b011b4a6e24f34') in 0.009360 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 439.894160 seconds.
+  path: Assets/CreativeCore_Audio/Audio/waterstep2.wav
+  artifactKey: Guid(514701ef923b8604bbd4f15f7ffc2022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Audio/Audio/waterstep2.wav using Guid(514701ef923b8604bbd4f15f7ffc2022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30fa63a586089f0a49e4f97de627a5d0') in 0.199375 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002329 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\UnityProject\CC_Audio\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.045 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1046ms)
+		BeginReloadAssembly (105ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (891ms)
+			LoadAssemblies (101ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (312ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (64ms)
+			SetupLoadedEditorAssemblies (314ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (89ms)
+				ProcessInitializeOnLoadAttributes (208ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3755 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 159.3 MB.
+System memory in use after: 159.6 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 4319.
+Total: 2.986400 ms (FindLiveObjects: 0.228800 ms CreateObjectMapping: 0.150700 ms MarkObjects: 2.587800 ms  DeleteObjects: 0.018600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
