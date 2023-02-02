@@ -15,11 +15,11 @@ E:/UnityProject/CC_Audio
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-63477
+50839
 Successfully changed project path to: E:/UnityProject/CC_Audio
 E:/UnityProject/CC_Audio
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 64.13 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 56.68 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.33f1 (915a7af8b0d5)
 [Subsystems] Discovering subsystems at path E:/ProgramFiles/Unity/Editor/2020.3.33f1/Editor/Data/Resources/UnitySubsystems
@@ -35,85 +35,85 @@ Initialize mono
 Mono path[0] = 'E:/ProgramFiles/Unity/Editor/2020.3.33f1/Editor/Data/Managed'
 Mono path[1] = 'E:/ProgramFiles/Unity/Editor/2020.3.33f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'E:/ProgramFiles/Unity/Editor/2020.3.33f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56624
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56064
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: E:/ProgramFiles/Unity/Editor/2020.3.33f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: E:/ProgramFiles/Unity/Editor/2020.3.33f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.001179 seconds.
+Registered in 0.001057 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 65.28 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 63.41 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.560 seconds
+- Completed reload, in  0.531 seconds
 Domain Reload Profiling:
-	ReloadAssembly (560ms)
-		BeginReloadAssembly (52ms)
+	ReloadAssembly (531ms)
+		BeginReloadAssembly (51ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (449ms)
-			LoadAssemblies (52ms)
+		EndReloadAssembly (423ms)
+			LoadAssemblies (51ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (142ms)
+			SetupTypeCache (130ms)
 			ReleaseScriptCaches (0ms)
 			RebuildScriptCaches (28ms)
-			SetupLoadedEditorAssemblies (189ms)
+			SetupLoadedEditorAssemblies (174ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
+				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (65ms)
-				BeforeProcessingInitializeOnLoad (13ms)
-				ProcessInitializeOnLoadAttributes (79ms)
-				ProcessInitializeOnLoadMethodAttributes (27ms)
+				RefreshPlugins (63ms)
+				BeforeProcessingInitializeOnLoad (12ms)
+				ProcessInitializeOnLoadAttributes (70ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002670 seconds.
+Registered in 0.002097 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image E:\UnityProject\CC_Audio\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 67.16 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 66.47 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.178 seconds
+- Completed reload, in  1.206 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1179ms)
-		BeginReloadAssembly (130ms)
+	ReloadAssembly (1206ms)
+		BeginReloadAssembly (135ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (16ms)
-		EndReloadAssembly (1000ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (1022ms)
 			LoadAssemblies (93ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (318ms)
+			SetupTypeCache (327ms)
 			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (75ms)
-			SetupLoadedEditorAssemblies (409ms)
+			RebuildScriptCaches (80ms)
+			SetupLoadedEditorAssemblies (413ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (67ms)
-				BeforeProcessingInitializeOnLoad (95ms)
-				ProcessInitializeOnLoadAttributes (229ms)
-				ProcessInitializeOnLoadMethodAttributes (12ms)
+				BeforeProcessingInitializeOnLoad (90ms)
+				ProcessInitializeOnLoadAttributes (239ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
 				AfterProcessingInitializeOnLoad (2ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (6ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.11 seconds
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
 Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3873 Unused Serialized files (Serialized files now loaded: 0)
@@ -121,7 +121,7 @@ System memory in use before: 163.7 MB.
 System memory in use after: 163.9 MB.
 
 Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 4307.
-Total: 4.176300 ms (FindLiveObjects: 0.236500 ms CreateObjectMapping: 0.143800 ms MarkObjects: 3.690700 ms  DeleteObjects: 0.104100 ms)
+Total: 3.431700 ms (FindLiveObjects: 0.272400 ms CreateObjectMapping: 0.230800 ms MarkObjects: 2.851100 ms  DeleteObjects: 0.076400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -135,145 +135,61 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/CreativeCore_Audio/Audio/cavestep2.wav
-  artifactKey: Guid(5282d14cb6967db4a983bc45d48f668b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CreativeCore_Audio/Audio/cavestep2.wav using Guid(5282d14cb6967db4a983bc45d48f668b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd389772239fb14cdf2981f12e6a3c97') in 0.244780 seconds 
+  path: Assets/CreativeCore_Audio/Audio/CCDatabase.asset
+  artifactKey: Guid(d763b566b423b4649b07d6a33de7bbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Audio/Audio/CCDatabase.asset using Guid(d763b566b423b4649b07d6a33de7bbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb9f8a2c1af22541be133f362b620964') in 0.055318 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000289 seconds.
-  path: Assets/CreativeCore_Audio/Audio/cavestep5.wav
-  artifactKey: Guid(6a54730a5529d6d48aacf891058aad61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CreativeCore_Audio/Audio/cavestep5.wav using Guid(6a54730a5529d6d48aacf891058aad61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2d22cc33fadab246d77b8460030f2ca') in 0.035310 seconds 
+  Time since last request: 15.471169 seconds.
+  path: Assets/CreativeCore_Audio/Audio/Waterfall Scene Database.asset
+  artifactKey: Guid(d763b566b423b4649b07d6a33de7bbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Audio/Audio/Waterfall Scene Database.asset using Guid(d763b566b423b4649b07d6a33de7bbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b59559ff9dc6282a0c0222e854deb35b') in 0.006525 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000321 seconds.
-  path: Assets/CreativeCore_Audio/Audio/grassstep2.wav
-  artifactKey: Guid(fa99639ada4ede647ad135c7f5431a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CreativeCore_Audio/Audio/grassstep2.wav using Guid(fa99639ada4ede647ad135c7f5431a31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c66904eb5a21dea6a6b3e7db4475374') in 0.052733 seconds 
+  Time since last request: 81.204651 seconds.
+  path: Assets/CreativeCore_Audio/ClosedCaptionSystem/Prefabs
+  artifactKey: Guid(56dba75ab36337040a824fefbfc537a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Audio/ClosedCaptionSystem/Prefabs using Guid(56dba75ab36337040a824fefbfc537a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32b76643f0e6a41d636bcf2d979e4b15') in 0.048542 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000351 seconds.
-  path: Assets/CreativeCore_Audio/Audio/grassstep5.wav
-  artifactKey: Guid(0a7afb728779dca4e88150f00fb5dbca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CreativeCore_Audio/Audio/grassstep5.wav using Guid(0a7afb728779dca4e88150f00fb5dbca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '807d1f5f0898164dd6563a68df587ce6') in 0.027432 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000387 seconds.
-  path: Assets/CreativeCore_Audio/Audio/WaterDroplets.mp3
-  artifactKey: Guid(28b85e10f376f0f47868e11d36b707c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CreativeCore_Audio/Audio/WaterDroplets.mp3 using Guid(28b85e10f376f0f47868e11d36b707c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaa5811638cf690db0376bf1817134a1') in 0.012678 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000318 seconds.
-  path: Assets/CreativeCore_Audio/Audio/cavestep3.wav
-  artifactKey: Guid(b2943a610e7a57b419faf35424b316d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CreativeCore_Audio/Audio/cavestep3.wav using Guid(b2943a610e7a57b419faf35424b316d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b317173a201c8d18244c79f4f6090953') in 0.028828 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000350 seconds.
-  path: Assets/CreativeCore_Audio/Audio/cavestep4.wav
-  artifactKey: Guid(51e36d69021dbd743b6533dc6bcfa157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CreativeCore_Audio/Audio/cavestep4.wav using Guid(51e36d69021dbd743b6533dc6bcfa157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16a7010114e8c6c97e3f2ae3f966a615') in 0.031807 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000264 seconds.
-  path: Assets/CreativeCore_Audio/Audio/ClassicalMusic.mp3
-  artifactKey: Guid(ddf756e293c1249778a7de2a09774c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CreativeCore_Audio/Audio/ClassicalMusic.mp3 using Guid(ddf756e293c1249778a7de2a09774c6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb63361539fa6204d79c5cb98f415189') in 0.055548 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000331 seconds.
-  path: Assets/CreativeCore_Audio/17970__reinsamba__water-frogs.wav
-  artifactKey: Guid(fa52d11a5a2d5b341ac05eebe80904f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CreativeCore_Audio/17970__reinsamba__water-frogs.wav using Guid(fa52d11a5a2d5b341ac05eebe80904f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bdb67699d21ba053995263bb31c05ed') in 0.059643 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000376 seconds.
-  path: Assets/CreativeCore_Audio/Audio/grassstep3.wav
-  artifactKey: Guid(179d33d7c401dc84096fac2e789f7ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CreativeCore_Audio/Audio/grassstep3.wav using Guid(179d33d7c401dc84096fac2e789f7ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '821a3c31a3e01cdc2fe6e7d4ba2eb12b') in 0.026682 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000275 seconds.
-  path: Assets/CreativeCore_Audio/Audio/waterstep5.wav
-  artifactKey: Guid(e0b2f1f4400305947a7138e75f81ccb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CreativeCore_Audio/Audio/waterstep5.wav using Guid(e0b2f1f4400305947a7138e75f81ccb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a2502d8b0c51ec6e86477f241b165dd') in 0.071746 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000292 seconds.
-  path: Assets/CreativeCore_Audio/Audio/waterstep1.wav
-  artifactKey: Guid(14f6084958eb6ab4eaf5cedb6b260946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CreativeCore_Audio/Audio/waterstep1.wav using Guid(14f6084958eb6ab4eaf5cedb6b260946) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31386803636034e10b904265ce7075e6') in 0.038162 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000357 seconds.
-  path: Assets/CreativeCore_Audio/Audio/grassstep4.wav
-  artifactKey: Guid(6c2f3473f3d408e4f9c5340d819ff8bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CreativeCore_Audio/Audio/grassstep4.wav using Guid(6c2f3473f3d408e4f9c5340d819ff8bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b9695490cd78c98dfec579c19d5f8c4') in 0.032005 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000284 seconds.
-  path: Assets/CreativeCore_Audio/Audio/cavestep1.wav
-  artifactKey: Guid(e6addbf6c83b992459c02da48a938195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CreativeCore_Audio/Audio/cavestep1.wav using Guid(e6addbf6c83b992459c02da48a938195) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5502300e2a408f3929719cff8e40084e') in 0.083115 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000315 seconds.
-  path: Assets/CreativeCore_Audio/Audio/waterstep3.wav
-  artifactKey: Guid(65f8c04d378a3c34fb57a3f2fca8b102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CreativeCore_Audio/Audio/waterstep3.wav using Guid(65f8c04d378a3c34fb57a3f2fca8b102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dae1af78a16ec6456d460bc1c0db1171') in 0.031355 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000341 seconds.
-  path: Assets/CreativeCore_Audio/Audio/waterstep4.wav
-  artifactKey: Guid(6dedbc0119502ba479a84f77c0e5cecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CreativeCore_Audio/Audio/waterstep4.wav using Guid(6dedbc0119502ba479a84f77c0e5cecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '999a2260adde7e1536636094f0203414') in 0.065907 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000664 seconds.
-  path: Assets/CreativeCore_Audio/Audio/grassstep1.wav
-  artifactKey: Guid(72d2ba4cdaa2a3a428144684a39086be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CreativeCore_Audio/Audio/grassstep1.wav using Guid(72d2ba4cdaa2a3a428144684a39086be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d01a8263672f19032049924e155ea2c') in 0.063647 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000284 seconds.
-  path: Assets/CreativeCore_Audio/340026__iesp__water-from-a-water-fountain.wav
-  artifactKey: Guid(1750f30241028784293bfb49d304f988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/CreativeCore_Audio/340026__iesp__water-from-a-water-fountain.wav using Guid(1750f30241028784293bfb49d304f988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2506624a0b81a7a5f00e21edc4d0d14e') in 0.011576 seconds 
+  Time since last request: 0.801414 seconds.
+  path: Assets/CreativeCore_Audio/ClosedCaptionSystem/Prefabs/System
+  artifactKey: Guid(7d6c91944b47e404086977272e70d98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Audio/ClosedCaptionSystem/Prefabs/System using Guid(7d6c91944b47e404086977272e70d98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51d4468c51bf61786525a6fd4a148825') in 0.026065 seconds 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.002567 seconds.
+Registered in 0.002305 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image E:\UnityProject\CC_Audio\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.77 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.076 seconds
+- Completed reload, in  1.148 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1076ms)
-		BeginReloadAssembly (112ms)
+	ReloadAssembly (1149ms)
+		BeginReloadAssembly (110ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
+			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (36ms)
-		EndReloadAssembly (912ms)
-			LoadAssemblies (93ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (987ms)
+			LoadAssemblies (89ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (324ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (63ms)
-			SetupLoadedEditorAssemblies (332ms)
+			SetupTypeCache (408ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (66ms)
+			SetupLoadedEditorAssemblies (323ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
+				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (95ms)
-				ProcessInitializeOnLoadAttributes (218ms)
-				ProcessInitializeOnLoadMethodAttributes (12ms)
+				BeforeProcessingInitializeOnLoad (92ms)
+				ProcessInitializeOnLoadAttributes (213ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
 				AfterProcessingInitializeOnLoad (2ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -282,11 +198,389 @@ Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3755 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 159.0 MB.
-System memory in use after: 159.2 MB.
+System memory in use before: 156.0 MB.
+System memory in use after: 156.2 MB.
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 4319.
-Total: 3.484000 ms (FindLiveObjects: 0.289300 ms CreateObjectMapping: 0.225200 ms MarkObjects: 2.943900 ms  DeleteObjects: 0.024900 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 4310.
+Total: 3.176000 ms (FindLiveObjects: 0.264300 ms CreateObjectMapping: 0.193600 ms MarkObjects: 2.685400 ms  DeleteObjects: 0.031700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 232.948585 seconds.
+  path: Assets/CreativeCore_Audio/Audio/Waterfall Scene Database.asset
+  artifactKey: Guid(d763b566b423b4649b07d6a33de7bbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Audio/Audio/Waterfall Scene Database.asset using Guid(d763b566b423b4649b07d6a33de7bbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd0fefffd5ce4010dedad02805180e21') in 0.018502 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002486 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\UnityProject\CC_Audio\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.107 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1107ms)
+		BeginReloadAssembly (118ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (918ms)
+			LoadAssemblies (106ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (324ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (65ms)
+			SetupLoadedEditorAssemblies (333ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (92ms)
+				ProcessInitializeOnLoadAttributes (221ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3755 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 156.0 MB.
+System memory in use after: 156.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 4313.
+Total: 3.286100 ms (FindLiveObjects: 0.247300 ms CreateObjectMapping: 0.182800 ms MarkObjects: 2.817500 ms  DeleteObjects: 0.037600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 825.707612 seconds.
+  path: Assets/CreativeCore_Audio
+  artifactKey: Guid(d7c2b283efd01224392f456a25c2a126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Audio using Guid(d7c2b283efd01224392f456a25c2a126) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be902907bb10b8b08328891bc47c14b8') in 0.012675 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 56.920454 seconds.
+  path: Assets/CreativeCore_Audio/Audio/Waterfall Scene Database 1.asset
+  artifactKey: Guid(603fbb22e84a75f4eb83a8c787553caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Audio/Audio/Waterfall Scene Database 1.asset using Guid(603fbb22e84a75f4eb83a8c787553caf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47c36a53689c2ec239e8be7f0d094bc7') in 0.021709 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002331 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\UnityProject\CC_Audio\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.012 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1012ms)
+		BeginReloadAssembly (103ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (862ms)
+			LoadAssemblies (84ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (299ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (60ms)
+			SetupLoadedEditorAssemblies (319ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (91ms)
+				ProcessInitializeOnLoadAttributes (210ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3755 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 156.1 MB.
+System memory in use after: 156.3 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 4316.
+Total: 2.901800 ms (FindLiveObjects: 0.219900 ms CreateObjectMapping: 0.185200 ms MarkObjects: 2.474900 ms  DeleteObjects: 0.021300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 144.025663 seconds.
+  path: Assets/CreativeCore_Audio/Audio/Waterfall Scene Database.asset
+  artifactKey: Guid(d763b566b423b4649b07d6a33de7bbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Audio/Audio/Waterfall Scene Database.asset using Guid(d763b566b423b4649b07d6a33de7bbe1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faede1eb78261f754c3665cca0c84bef') in 0.019260 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 137.653724 seconds.
+  path: Assets/CreativeCore_Audio/ClosedCaptionSystem/Prefabs/System/CCCanvas.prefab
+  artifactKey: Guid(3af81b2bb22b60348b47e8d0605411fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CreativeCore_Audio/ClosedCaptionSystem/Prefabs/System/CCCanvas.prefab using Guid(3af81b2bb22b60348b47e8d0605411fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '016fce974f168b3e3d56fa6314ffbe9f') in 0.046297 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002476 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\UnityProject\CC_Audio\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.111 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1111ms)
+		BeginReloadAssembly (110ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (950ms)
+			LoadAssemblies (97ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (337ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (68ms)
+			SetupLoadedEditorAssemblies (343ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (99ms)
+				ProcessInitializeOnLoadAttributes (225ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3755 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 156.2 MB.
+System memory in use after: 156.4 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 4321.
+Total: 3.038000 ms (FindLiveObjects: 0.246100 ms CreateObjectMapping: 0.214200 ms MarkObjects: 2.551900 ms  DeleteObjects: 0.025200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002431 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\UnityProject\CC_Audio\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.084 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1085ms)
+		BeginReloadAssembly (100ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (935ms)
+			LoadAssemblies (86ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (327ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (70ms)
+			SetupLoadedEditorAssemblies (342ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (97ms)
+				ProcessInitializeOnLoadAttributes (225ms)
+				ProcessInitializeOnLoadMethodAttributes (12ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3755 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 156.2 MB.
+System memory in use after: 156.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 4324.
+Total: 3.652500 ms (FindLiveObjects: 0.273000 ms CreateObjectMapping: 0.209400 ms MarkObjects: 3.146900 ms  DeleteObjects: 0.022300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002636 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\UnityProject\CC_Audio\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.64 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.086 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1087ms)
+		BeginReloadAssembly (102ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (930ms)
+			LoadAssemblies (94ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (332ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (69ms)
+			SetupLoadedEditorAssemblies (332ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (92ms)
+				ProcessInitializeOnLoadAttributes (221ms)
+				ProcessInitializeOnLoadMethodAttributes (11ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3755 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 156.2 MB.
+System memory in use after: 156.4 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 4327.
+Total: 3.439400 ms (FindLiveObjects: 0.280200 ms CreateObjectMapping: 0.232300 ms MarkObjects: 2.902400 ms  DeleteObjects: 0.023700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002515 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\UnityProject\CC_Audio\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.095 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1095ms)
+		BeginReloadAssembly (101ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (931ms)
+			LoadAssemblies (150ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (305ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (61ms)
+			SetupLoadedEditorAssemblies (326ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (93ms)
+				ProcessInitializeOnLoadAttributes (215ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3755 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 156.2 MB.
+System memory in use after: 156.5 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 4330.
+Total: 3.022400 ms (FindLiveObjects: 0.228000 ms CreateObjectMapping: 0.143000 ms MarkObjects: 2.604000 ms  DeleteObjects: 0.046500 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
