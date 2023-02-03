@@ -46,6 +46,8 @@
      <Compile Include="Assets\CreativeCore_Audio\ClosedCaptionSystem\Scripts\System\CCCanvas.cs" />
      <Compile Include="Assets\CreativeCore_Audio\StarterAssets\ThirdPersonController\Scripts\ThirdPersonController.cs" />
      <Compile Include="Assets\CreativeCore_Audio\ClosedCaptionSystem\Scripts\System\CCDatabase.cs" />
+     <None Include="Assets\CreativeCore_Audio\Audio source.txt" />
+     <None Include="Assets\Speakers PBR\Readme.txt" />
      <None Include="Assets\CreativeCore_Audio\resource source.txt" />
      <None Include="Assets\CreativeCore_Audio\StarterAssets\license.txt" />
     <Reference Include="UnityEngine">
